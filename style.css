@@ -1,0 +1,15 @@
+body {
+    background: black;
+    color: rgb(19, 224, 19);
+    text-align: center;
+}
+
+divElement {
+    text-align: center;
+}
+
+divElement ul li {
+    display: inline;
+    
+}
+
